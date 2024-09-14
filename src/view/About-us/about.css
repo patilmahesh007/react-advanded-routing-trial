@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&family=Sofadi+One&display=swap');
+.about-heading{
+    display: block;
+   margin: auto;
+   text-align: center;
+   font-family: "Sofadi One", system-ui;
+
+   font-size: 40px;
+   color: aquamarine;
+}
+.image-slider-container{
+    height: 500px;
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    position: relative;
+}
+
+.slider-div1{
+    height: 75%;
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.slider-div1 img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px 20px 0px 0px;
+}
+.slider-div2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    gap: 2px;
+
+}
+.slider-div2 img{
+    width: 167px;
+
+}
+
+.about-description{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 50px;
+ font-family: "Jacques Francois Shadow", serif;
+ font-size: 20px;
+ width: 700px;
+ color: aquamarine;
+}

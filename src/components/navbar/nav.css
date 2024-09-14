@@ -1,0 +1,26 @@
+header {
+    width: 100vw;
+    height: 7vh;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+
+.container {
+    margin-right: 60px;
+    display: flex;
+    gap: 20px;
+
+}
+
+span {
+    font-size: large;
+    padding-right: 20px;
+}
+.nav-names{
+    text-decoration: none;
+    color: aquamarine;
+    font-size: 20px;
+
+}

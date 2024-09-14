@@ -1,0 +1,10 @@
+footer{
+    width: 100vw;
+    height: 5vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.content{
+    margin: 5px auto;
+}
